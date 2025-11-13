@@ -35,5 +35,5 @@ The task was to use machine learning to predict housing prices from a training d
 
 ## Notes
 
-Each version is included in the `notebooks/` folder, showing the evolution of my approach.  
+Each version is included, showing the evolution of my approach.  
 This repository captures my experimentation and learning process, starting from Kaggle templates and progressively applying my own improvements to refine predictions.
