@@ -38,6 +38,8 @@ The task was to use machine learning to predict housing prices from a training d
 **RMSE:** 16619.07644
 **Leaderboard Position:** ~1800  
 
+---
+
 ## Notes
 
 Each version is included, showing the evolution of my approach.  
