@@ -20,21 +20,21 @@ The task was to use machine learning to predict housing prices from a training d
 ---
 
 ### Version 2
-**Model:** Baseline Random Forest Regressor
+**Model:** Baseline Random Forest Regressor     
 **RMSE:** 20998.83780  
 **Leaderboard Position:** ~3000  
 
 ---
 
 ### Version 3
-**Model:** Baseline Random Forest Regressor with more features for training data
+**Model:** Baseline Random Forest Regressor with more features for training data      
 **RMSE:** 17860.00818  
 **Leaderboard Position:** ~2000  
 
 ---
 
 ### Version 4
-**Model:** Baseline Random Forest Regressor with imputted values for missing values
+**Model:** Baseline Random Forest Regressor with imputted values for missing values      
 **RMSE:** 16619.07644
 **Leaderboard Position:** ~1800  
 
