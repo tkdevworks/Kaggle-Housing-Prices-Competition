@@ -53,6 +53,13 @@ The task was to use machine learning to predict housing prices from a training d
 **Leaderboard Position:** ~800  
 
 ---
+
+### Version 7
+**Model:** XGBoost Regressor                       
+**RMSE:** 15308.33454                                
+**Leaderboard Position:** ~470          
+
+---
 ## Notes
 
 Each version is included, showing the evolution of my approach.  
