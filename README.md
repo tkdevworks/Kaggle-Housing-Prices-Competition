@@ -6,7 +6,8 @@ Project for the Kaggle Housing Prices Competition, starting from a baseline temp
 
 ## Competition Overview
 
-The task was to use machine learning to predict housing prices from a training dataset and apply the model to a test dataset.
+The task was to use machine learning to predict housing prices from a training dataset and apply the model to a test dataset. 
+Accuracy measured using Mean Absolute Error (MAE).
 
 ---
 
@@ -14,49 +15,49 @@ The task was to use machine learning to predict housing prices from a training d
 
 ### Version 1
 **Model:** Baseline Decision Tree Regressor  
-**RMSE:** 21217.91640  
+**MAE:** 21217.91640  
 **Leaderboard Position:** ~4000  
 
 ---
 
 ### Version 2
 **Model:** Baseline Random Forest Regressor     
-**RMSE:** 20998.83780  
+**MAE:** 20998.83780  
 **Leaderboard Position:** ~3000  
 
 ---
 
 ### Version 3
 **Model:** Random Forest Regressor with more features for training data      
-**RMSE:** 17860.00818  
+**MAE:** 17860.00818  
 **Leaderboard Position:** ~2000  
 
 ---
 
 ### Version 4
 **Model:** Random Forest Regressor with imputed values for missing values      
-**RMSE:** 16619.07644      
+**MAE:** 16619.07644      
 **Leaderboard Position:** ~1800  
 
 ---
 
 ### Version 5
 **Model:** Random Forest Regressor with one hot encoding for low cardinality categorical data                   
-**RMSE:** 16515.50347                    
+**MAE:** 16515.50347                    
 **Leaderboard Position:** ~1400
 
 ---
 
 ### Version 6
 **Model:** Baseline Random Forest Regressor with data pipelines for efficiency                
-**RMSE:** 16337.57334               
+**MAE:** 16337.57334               
 **Leaderboard Position:** ~800  
 
 ---
 
 ### Version 7
 **Model:** XGBoost Regressor                       
-**RMSE:** 15308.33454                                
+**MAE:** 15308.33454                                
 **Leaderboard Position:** ~470          
 
 ---
