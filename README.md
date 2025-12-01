@@ -41,15 +41,15 @@ The task was to use machine learning to predict housing prices from a training d
 ---
 
 ### Version 5
-**Model:** Random Forest Regressor with one hot encoding for low cardinality categorical data
-**RMSE:** 16515.50347      
+**Model:** Random Forest Regressor with one hot encoding for low cardinality categorical data                   
+**RMSE:** 16515.50347                    
 **Leaderboard Position:** ~1400
 
 ---
 
 ### Version 6
-**Model:** Baseline Random Forest Regressor with data pipelines for efficiency     
-**RMSE:** 16337.57334
+**Model:** Baseline Random Forest Regressor with data pipelines for efficiency                
+**RMSE:** 16337.57334               
 **Leaderboard Position:** ~800  
 
 ---
